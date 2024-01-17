@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello! 👋
 
+# My name is Luke Myers
+  - I am a third year student at the University of Cincinnati
+  - In the process of getting my Baccalaureate degree in Computer Science
+  - Focused on Software, Web, and Game Development
+  - Have QA and development experince from co-ops at London Computer Systems 
 <!--
 **lmyers421/lmyers421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
