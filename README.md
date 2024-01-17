@@ -1,6 +1,6 @@
-### Hello! 👋
+## Hello! 👋
 
-# My name is Luke Myers
+### My name is Luke Myers
   - I am a third year student at the University of Cincinnati
   - In the process of getting my Baccalaureate degree in Computer Science
   - Focused on Software, Web, and Game Development
